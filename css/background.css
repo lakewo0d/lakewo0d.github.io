@@ -1,0 +1,9 @@
+#web_bg {
+  background-image: url('../img/bg.jpg'),
+    linear-gradient(
+      60deg,
+      rgba(235, 223, 221, 0.5) 5%,
+      rgba(9, 43, 46, 0.35)
+    ),
+    url('../img/bg.jpg');
+}
